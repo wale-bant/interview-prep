@@ -54,8 +54,11 @@ Feel free to raise PRs to enrich this repo with more questions (Don't forget to 
      Answer To be added
 9. ### What is event loop and how does it work?
     For solution, refer to below links.
-    https://www.youtube.com/watch?v=cCOL7MC4Pl0
-    https://www.youtube.com/watch?v=8aGhZQkoFbQ
+    <!-- [![loop](http://img.youtube.com/vi/cCOL7MC4Pl0/0.jpg)](http://www.youtube.com/watch?v=cCOL7MC4Pl0 "Event Loop") -->
+    <iframe width="560" height="315"
+          src="http://www.youtube.com/watch?v=cCOL7MC4Pl0"
+          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+     </iframe>
 10. ### Difference between state and props
      Answer To be added
 11. ### Why we need key in react lists? What happens if we provide the index as the key ?
