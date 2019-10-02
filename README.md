@@ -53,8 +53,9 @@ Feel free to raise PRs to enrich this repo with more questions (Don't forget to 
 8. ### How does virtual DOM works in React? Talk about React Fibre, the reconciliation algorithm of react.
      Answer To be added
 9. ### What is event loop and how does it work?
-    For solution, refer to below links.
-    [![loop](http://img.youtube.com/vi/cCOL7MC4Pl0/0.jpg)](http://www.youtube.com/watch?v=cCOL7MC4Pl0 "Event Loop")
+   > For solution, refer to below links.
+
+    [![loop](http://img.youtube.com/vi/cCOL7MC4Pl0/0.jpg)](http://www.youtube.com/watch?v=cCOL7MC4Pl0 "Jake Archibald: In The Loop - JSConf.Asia")
     [![event loop](http://img.youtube.com/vi/8aGhZQkoFbQ/0.jpg)](http://www.youtube.com/watch?v=8aGhZQkoFbQ "What is event loop?")
 10. ### Difference between state and props
      Answer To be added
